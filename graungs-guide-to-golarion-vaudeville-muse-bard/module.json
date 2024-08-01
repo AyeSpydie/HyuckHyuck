@@ -1,10 +1,10 @@
 {
   "id": "graungs-guide-to-golarion-vaudeville-muse-bard",
   "title": "Graung's Guide to Golarion: Vaudevillian Muse Bard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "description": "The Vaudevillian Muse for Bards",
   "authors": [
