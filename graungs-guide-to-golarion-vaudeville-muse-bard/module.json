@@ -1,7 +1,7 @@
 {
   "id": "graungs-guide-to-golarion-vaudeville-muse-bard",
   "title": "Graung's Guide to Golarion: Vaudevillian Muse Bard",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -26,6 +26,22 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Graung's Guide to Golarion",
+      "sorting": "a",
+      "packs": [],
+      "folders": [
+        {
+          "name": "Vaudevillian Muse",
+          "sorting": "m",
+          "packs": [
+            "vaudevillian-muse"
+          ]
+        }
+      ]
     }
   ],
   "url": "https://github.com/AyeSpydie/HyuckHyuck",
